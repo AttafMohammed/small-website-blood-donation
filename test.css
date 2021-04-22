@@ -1,0 +1,45 @@
+
+    
+.titrePrincipale{
+    display: flex;
+    justify-content: center;
+}
+.titrePrincipale span {
+    color: red;
+
+}
+
+nav{
+    display: flex;
+    width: 100%;
+    height: 50px;
+    background-color: pink;
+    justify-content: center;
+    
+
+}
+nav ul{
+    list-style-type:none;
+}
+nav li{
+    display: inline-block;
+    margin-right: 50px;
+    
+}
+nav a {
+    display: block;
+    text-decoration: none;
+    font-size: 1.2em;
+    text-transform: capitalize;
+   
+}
+
+.imagePrincipale{
+   background-color: rgb(187, 114, 5);
+}
+
+
+   
+    
+    
+
